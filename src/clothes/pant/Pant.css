@@ -1,0 +1,19 @@
+.pant--1 {
+  fill: #2d2e83;
+}
+
+.pant--2 {
+  fill: #432918;
+}
+
+.pant--3 {
+  fill: #c9b815;
+}
+
+.pant--4 {
+  fill: none;
+  stroke: #0e0f20;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2.58px;
+}

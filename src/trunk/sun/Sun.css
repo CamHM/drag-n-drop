@@ -1,0 +1,26 @@
+.sun--1 {
+  fill: #ffed00;
+}
+
+.sun--2 {
+  fill: #1d1d1b;
+}
+
+.sun--3 {
+  fill: #fff;
+}
+
+.sun--4 {
+  fill: #7b1619;
+}
+
+.sun--5 {
+  fill: #e30613;
+}
+
+.sun--6 {
+  fill: none;
+  stroke: #e6332a;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}

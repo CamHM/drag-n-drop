@@ -1,0 +1,10 @@
+.moon--1 {
+  fill: #fff2a6;
+}
+
+.moon--2 {
+  fill: none;
+  stroke: #f9b233;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}

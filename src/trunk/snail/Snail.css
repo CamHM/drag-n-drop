@@ -1,0 +1,26 @@
+.snail--1 {
+  fill: #fdf4a7;
+}
+
+.snail--2 {
+  fill: #f9b233;
+}
+
+.snail--3 {
+  fill: #634e42;
+}
+
+.snail--4 {
+  fill: #1d1d1b;
+}
+
+.snail--5 {
+  fill: #fff;
+}
+
+.snail--6 {
+  fill: none;
+  stroke: #634e42;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}

@@ -1,0 +1,27 @@
+.long-sleeve--1,
+.long-sleeve--6 {
+  fill: none;
+}
+
+.long-sleeve--2 {
+  fill: #bbe2f2;
+}
+
+.long-sleeve--3 {
+  opacity: 0.5;
+}
+
+.long-sleeve--4 {
+  clip-path: url(#clip-path);
+}
+
+.long-sleeve--5 {
+  fill: #1d71b8;
+}
+
+.long-sleeve--6 {
+  stroke: #1d71b8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2.58px;
+}
