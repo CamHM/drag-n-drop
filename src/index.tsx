@@ -1,8 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Act4 from "./Act4";
+
+const App = () => (
+    <div>
+        <Act4 />
+    </div>
+);
 
 ReactDOM.render(
   <React.StrictMode>

@@ -1,0 +1,18 @@
+.flower--1 {
+    fill: #99d3db;
+}
+
+.flower--2 {
+    fill: #e6332a;
+}
+
+.flower--3 {
+    fill: #f9b233;
+}
+
+.flower--4 {
+    fill: none;
+    stroke: #20425b;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
