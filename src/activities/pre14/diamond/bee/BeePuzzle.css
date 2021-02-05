@@ -1,0 +1,23 @@
+.bee-puzzle--1, .bee-puzzle--2 {
+    font-size: 36.41px;
+    font-family: TypoGroteskRounded, Typo Grotesk Rounded;
+}
+
+.bee-puzzle--1 {
+    fill: #cd1719;
+}
+
+.bee-puzzle--2, .bee-puzzle--4 {
+    fill: #1d1d1b;
+}
+
+.bee-puzzle--3 {
+    fill: #fff;
+}
+
+.bee-puzzle--5 {
+    fill: none;
+    stroke: #1d1d1b;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
